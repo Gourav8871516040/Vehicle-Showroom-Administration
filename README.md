@@ -16,14 +16,23 @@ It is a Java based Desktop Application which is used to manage all the vehicle s
 
 ![](img/3.png)
 
-### 2. Home Screen : 
+### 3. Home Screen : 
 
 There is a image slideshow on home screen which changes the images of car in every 2 seconds.
 
 ![](img/4.png)
 
 
+### 4. Add Customer :
+
+To add customer details.
+
 ![](img/5.png)
+
+
+### 5. View Customer :
+
+To view customer details.
 
 
 ![](img/6.png)
