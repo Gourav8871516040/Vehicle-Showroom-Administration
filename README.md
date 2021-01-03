@@ -1,10 +1,10 @@
 # Vehicle-Showroom-Administration
 It is a Java based Desktop Application which is used to manage all the vehicle showroom related activities.All the type of selling and buying activities can be managed by this application. There is no need to do work manually.
 
-### Application Screenshots :-
+## Application Screenshots :-
 
 
-#### 1. Admin Login Window : 
+### 1. Admin Login Window : 
 
 ![](img/1.png)
 
@@ -12,9 +12,13 @@ It is a Java based Desktop Application which is used to manage all the vehicle s
 ![](img/2.png)
 
 
-#### 1. Home Screen :
+### 2. Home Screen : 
+
 ![](img/3.png)
 
+### 2. Home Screen : 
+
+There is a image slideshow on home screen which changes the images of car in every 2 seconds.
 
 ![](img/4.png)
 
