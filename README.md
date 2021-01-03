@@ -54,7 +54,17 @@ To generate quatations slip.
 ![](img/8.png)
 
 
+### 8. Add Sale :
+
+To add sale details.
+
+
 ![](img/9.png)
+
+
+### 9. Stock :
+
+To check showroom stock.
 
 
 ![](img/10.png)
