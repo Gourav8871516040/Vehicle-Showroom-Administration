@@ -38,7 +38,17 @@ To view customer details.
 ![](img/6.png)
 
 
+### 6. Add Employee :
+
+To add employee details.
+
+
 ![](img/7.png)
+
+
+### 7. Reports :
+
+To generate quatations slip.
 
 
 ![](img/8.png)
